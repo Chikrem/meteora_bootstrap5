@@ -1,6 +1,3 @@
-# Wave Cast
-
-
 # Meteora - Página de Venda de Produtos de Moda
 
 ![Wave Cast Logo](assets/logo-meteora.png)
@@ -31,3 +28,8 @@ A página "Meteora" foi projetada para exibir produtos de moda de forma elegante
 O projeto pode ser visualizado e testado em:
 
 - [Vercel](https://meteora-bootstrap5-lemon.vercel.app/)
+
+## Screenshots
+![Screenshot da tela inicial do Meteora.](assets/img1.png)
+![Screenshot dos cards de produtos.](assets/img2.png)
+![Screenshot do footer](assets/img3.png)
