@@ -27,7 +27,7 @@ A página "Meteora" foi projetada para exibir produtos de moda de forma elegante
 
 O projeto pode ser visualizado e testado em:
 
-- [Vercel](https://meteora-bootstrap5-lemon.vercel.app/)
+- [Meteora - Vercel](https://meteora-bootstrap5-lemon.vercel.app/)
 
 ## Screenshots
 ![Screenshot da tela inicial do Meteora.](assets/img1.png)
